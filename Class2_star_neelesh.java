@@ -1,4 +1,4 @@
-class Five
+class Class2_star_neelesh
 {
 	public static void main(String args[])
 	{

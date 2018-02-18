@@ -1,4 +1,5 @@
-class Six
+//write a program in java to find biggest number.
+class Class2_biggest_neelesh
 {
 	public static void main(String args[])
 	{

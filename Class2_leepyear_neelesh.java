@@ -1,4 +1,5 @@
-class Four
+//write a program in java to check year leapyear or not.
+class Class2_leepyear_neelesh
 {
 	public static void main(String args[])
 	{

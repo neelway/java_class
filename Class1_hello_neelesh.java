@@ -1,6 +1,6 @@
-//write a program in java that print "hello world!" to the screen.
+//write a program in java to print "hello world!" to the screen.
 
-class First
+class Class1_hello_neelesh
 {
 	public static void main(String args[])
 	{

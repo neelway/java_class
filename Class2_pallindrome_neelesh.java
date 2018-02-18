@@ -1,4 +1,5 @@
-class Sev
+//write a program in java to check number pallindrome or not
+class Class2_pallindrome_neelesh
 {
 	public static void main(String args[])
 	{

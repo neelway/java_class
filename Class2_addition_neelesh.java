@@ -1,4 +1,5 @@
-class TH
+//write a program in java to addition two number.
+class Class2_addition_neelesh
 {
 	public static void main(String args[])
 	{

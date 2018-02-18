@@ -1,6 +1,6 @@
-//write a program in java that print your name.
+//write a program in java to print your name.
 
-class Sec
+class Class1_nameprint_neelesh
 {
 	public static void main(String args[])
 	{

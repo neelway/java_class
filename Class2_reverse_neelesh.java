@@ -1,4 +1,5 @@
-class Nine
+//write a program in java to reverse num.
+class Class2_reverse_neelesh
 {
 	public static void main(String args[])
 	{
