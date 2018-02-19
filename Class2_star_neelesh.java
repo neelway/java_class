@@ -1,3 +1,4 @@
+//write a program in java to print star.
 class Class2_star_neelesh
 {
 	public static void main(String args[])
