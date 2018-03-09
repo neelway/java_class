@@ -1,4 +1,5 @@
-import java.io.File;
+
+import java.io.FileReader;
 
 public class Class10_pathfile_neelesh {
 
@@ -6,10 +7,12 @@ public class Class10_pathfile_neelesh {
 	 * @param args
 	 */
 	public static void main(String[] args) throws Exception{
-	File f =new File("D:\\abhishek\\neelesh ac\\src\\neel.txt");
-	
-	System.out.println(f.createNewFile());
-	System.out.println(f.getAbsolutePath()+"\n"+f.isFile());
+	FileReader f =new FileReader("D:\\abhishek\\neelesh ac\\src\\abc.txt");
+	int c;
+	while((c=f.read())!= -1)
+	{
+		System.out.print((char)c);
+	}
 
 	}
 
