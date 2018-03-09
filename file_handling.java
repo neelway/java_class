@@ -22,6 +22,9 @@ public class file_handling {
 	{
 		
 		System.out.println(sr);
+		 bw.write(sr);
+		 bw.newLine();
+		 bw.flush();
 		
 	}
 	System.out.println("cde.text file");	
@@ -29,28 +32,12 @@ public class file_handling {
 	{
 		
 		System.out.println(sr1);
+		 bw.write(sr1);
+		 bw.newLine();
+		 bw.flush();
 	}
-
-	bw.write("aaa");
-	bw.newLine();
-	bw.write("bbb");
-	bw.newLine();
-	bw.write("ccc");
-	bw.newLine();
-	bw.write("ddd");
-	bw.newLine();
-	bw.write("111");
-	bw.newLine();
-	bw.write("222");
-	bw.newLine();
-	bw.write("333");
-	bw.newLine();
-	bw.write("444");
-	bw.flush();
-	bw.close();
-	bf.close();
-	bf1.close();
 	
+   
 	
 	}
 }
